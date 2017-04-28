@@ -15,10 +15,6 @@ print "Hello " + name("what is your name?")
 
 
 
-
-
-
-
 print "what can I do for you"
 
 while True:
